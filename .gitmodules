@@ -1,0 +1,3 @@
+[submodule "second-module"]
+	path = second-module
+	url = https://github.com/Harshit9002/second-module.git
